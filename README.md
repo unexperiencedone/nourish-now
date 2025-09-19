@@ -105,3 +105,4 @@ npm run build
 - Styled with Tailwind CSS
 
 Built with ❤️ on Rocket.new
+You can visit the deployed application over netlify here https://nourishnow-g6eio23.public.builtwithrocket.new
